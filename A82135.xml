@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the counties of Worcester-shire, Warwick-shire, Hereford-shire, and Sallop, concerning the raising of forces there for the King: also, a declaration of the city of London, to give satisfaction touching their desires of a personall treaty with His Majesty. With a list of the prisoners taken at St. Needs, and the names of the Colonels, and other officers taken since in the pursuit of the Duke of Buckingham.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82135</idno>
+            <idno type="STC">Wing D659</idno>
+            <idno type="STC">Thomason E452_30</idno>
+            <idno type="STC">ESTC R204867</idno>
+            <idno type="EEBO-CITATION">99864324</idno>
+            <idno type="PROQUEST">99864324</idno>
+            <idno type="VID">161971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161971)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the counties of Worcester-shire, Warwick-shire, Hereford-shire, and Sallop, concerning the raising of forces there for the King: also, a declaration of the city of London, to give satisfaction touching their desires of a personall treaty with His Majesty. With a list of the prisoners taken at St. Needs, and the names of the Colonels, and other officers taken since in the pursuit of the Duke of Buckingham.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "July 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161971:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE COUNTIES OF <hi>Worceſter-ſhire, Warwick-ſhire, Hereford-ſhire,</hi> and <hi>Sallop,</hi> concerning the raiſing of Forces there for the KING:</p>
+            <p>
+               <hi>ALSO,</hi> A Declaration of the City of <hi>London,</hi> to give ſatisfaction touching their atiſfaction touching their Deſires of a Perſonall Treaty with His Majeſty.</p>
+            <p>With a Liſt of the priſoners taken at St. <hi>Needs,</hi> and the names of the Colonels, and other Officers taken ſince in the purſuit of the Duke of <hi>Buckingham.</hi>
+            </p>
+            <p>
+               <add>July 13</add> LONDON, Printed by <hi>B. A.</hi> 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:161971:2"/>
+            <pb facs="tcp:161971:2"/>
+            <head>PROPOSITIONS OF Sir <hi>Marmaduke Langdale,</hi> to Duke <hi>Hambleton,</hi> and the reſt of the Scottiſh Lords, agreed upon at the grand Councel, <hi>June</hi> 30. 1648.</head>
+            <p n="1">I. TO acquaint their Lordſhips with the reaſons that the Presbyterian party joyn not with us, is their confidence we ſhall not be aſſiſted by the Kingdom to cleave with us, that they will pleaſe to let three Regiments joyn with us ſpeedily.</p>
+            <p n="2">2. To deſire that ſome perſon who is known to be faithfull to Duke <hi>Hamiltons</hi> family, may be employed into <hi>England</hi> to advertiſe their Lordſhips of our pro<g ref="char:EOLhyphen"/>ceedings.</p>
+            <p n="3">3. To certifie their Lordſhips there were nothing
+<pb facs="tcp:161971:3"/>wanting on our parts, that might have engaged Lanca<g ref="char:EOLhyphen"/>ſhire to joyn with us.</p>
+            <p n="4">4. That Sir <hi>Marmaduke Langdale</hi> deſires their Lordſhips they would contrive how he may declare, that as the Presbyterian party be encouraged to joyne with us, ſo the Royall party may not be loſt.</p>
+            <p>The Scots Army are to randezvouz to morrow at <hi>Dumfreize,</hi> and prepare to march for England the 12. inſtant, by which they expect to be 12000. beſides Maj. Gen. <hi>Monroes</hi> men, but I believe they will come ſhort of their number.</p>
+            <p>Duke <hi>Hamilton</hi> hath finiſhed a Declaration to pub<g ref="char:EOLhyphen"/>liſh at his comming into England, to declare for the King and Covenant.</p>
+         </div>
+         <div type="letter">
+            <head>A Letter from Major Generall Lamberts Quarters.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce we came into theſe parts we have taken five Caſtles from the enemy, viz. Appleby, Brougham, Grayſtoke, Roſe and Sealby, Roſe was taken by ſtorm of 220 Foot, being a commanded party and taken within two houres, the place is ſtrong, had 40 men in it, the Governour ſtood and refuſed to ſummons, and yet quarter was given, onely one of the enemy ſlain and one hurt, not one of ours hurt or killed, Sealby Caſtle was taken by a party of horſe onely, they fired but one piece, and one Trooper going up to the walls, and ſhew<g ref="char:EOLhyphen"/>ing his piſtoll to them and threatning what he would do if they ſired <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny more, and that they ſhould have no quarter, they preſently yeelded. On Sunday night laſt our Army comming to Warwicke Bridge foure miles from Carliſle, the enemy kept a ſtrong guard of
+<pb facs="tcp:161971:3"/>Horſe and Foot there, we were uyon them before they were aware, they left their gua<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and fled, our forlorn purſued them to the walls of Carliſle, wee took 100 priſoners Horſe and Foot, and 40 Horſe, and gave them ſo hot an Alarme, being in the night, that from all their quarters, they runne both horſe and Foote, to Carliſle in ſo great confuſion, that if it had been been day we had taken, at leaſt a thouſand of them. They pretend they will not fight till the Scots come in, and we have received credible information, that three Re<g ref="char:EOLhyphen"/>giments of Scottish horſe are ready, to joyne with them, and I think they will do it, do what we can but when thats done, we ſhall not refuſe to fight with them though they ſhould be twice in number, we have had miſerable marches, and moſt pittifull quarters in this barren and undone Country.</p>
+            <p>We muſt be forced to remove our ſtorm, neither of which, we would willingly do, by the former we incourage our enimies, and diſcourage our Friends, by the latter, we deſtroy our ſelves, in this miſerable con<g ref="char:EOLhyphen"/>dition, we are as a company, of forlorn men neglected &amp; forſaken, having neit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er mony cloathes nor victuals for Horſe and man, hard marches, hard duty, and at night the high Canope for our curtain,</p>
+            <closer>
+               <dateline>Richarley neere Carliſle, <date>Iune, 29, 1638.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161971:4"/>
+            <opener>
+               <dateline>Bedford <date>July 10, 1648.</date>
+               </dateline>
+               <lb/>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I beleeve you have before this can come to your hands received intelligence of the late action at St. Needs, on monday mor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing laſt; therefore I ſhall be very brief in that particular, and proceed to what hap<g ref="char:EOLhyphen"/>ned afterwards, Col Scroop entred the town about 4 or 5 in the morning, after moſt of the wearied forces with the Earle of Holland, had gotten 3 or 4 houres ſleep, who being overcome with ſleepe, and tyred in their march, knowing themſelves purſued were not so vigilant in their quarters as they might have beene which was a meanes to give the more eaſie and facile entrance to col. <hi>Scroop</hi> &amp; his forces, they took the E. of <hi>Holland,</hi> sir <hi>Gilb. Garrand</hi> (a Gentleman which formerly had bin very active for the King) with divers other Gen<g ref="char:EOLhyphen"/>tlemen of quality, &amp; about 300 priſoners, 320 horſe, &amp; ſtore of arms &amp; pillage, col. <hi>Dalbere</hi> is either killed or very dangerouſly wounded, many were killed on the place, &amp; the reſt fled in two parties, that which went with the Duke is reported not to conſiſt of a<g ref="char:EOLhyphen"/>bove 60 or 70 horſe, &amp; about as many more gone with the E. of <hi>Peterborough</hi> towards <hi>Huntington,</hi> and were ſo cloſely purſued by col. <hi>Scroops</hi> horſe that they have taken many priſoners ſince the firſt action, among which is col. <hi>Leg,</hi> col. <hi>Pincher,</hi> capt. <hi>Hews,</hi> &amp; others, and if any have eſcapt, they may ſay <hi>gra-mercy horſe,</hi> the pri<g ref="char:EOLhyphen"/>ſoners are as we hear on their march for <hi>London,</hi> or to the L. Gen. quarters, which is all for the preſent he can ſend you that is</p>
+            <closer>
+               <dateline>Bedford <date>July 10. 1648.</date>
+               </dateline>
+               <signed>Your devoted ſervant, <hi>L.R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161971:4"/>
+            <head>A Relation out of Worceſter-ſhire of a deſign to have rai<g ref="char:EOLhyphen"/>ſed forces foo the King, Warwick-ſhire, Hereford<g ref="char:EOLhyphen"/>ſhire, and what the Counties declared thereupon.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT cannot be imagined with what skil &amp; policy the Cavalier party have acted in ſeverall parts of the Kingdom for raiſing of forces to renew the firſt quar<g ref="char:EOLhyphen"/>rel, &amp; put it into a new combuſtion, for which pur<g ref="char:EOLhyphen"/>poſe many Agents have bin employed not only in this county, but alſo in <hi>Hereforaſhire, Warwickſhire,</hi> &amp; other parts of the Kingdom; &amp; although they have bin very private in their meeting, and liſting of men, yet we bleſſe God they are diſcovered and ſome of thoſe which were principall actours herein apprehen<g ref="char:EOLhyphen"/>ded, their perſons feured, which may much conduce to the peace and quiet of theſe parts, eſpecially if our neighbour Counties do the like, one of the chief in this County wich is ſuſpected to have a hand in this buſi<g ref="char:EOLhyphen"/>neſſe, is the Lord Dudleys ſonne, there be alſo five more apprehnded but they ſhall be nameleſſe, till a fuller diſcovery, be made of this buſineſſe, ſome of them ha<g ref="char:EOLhyphen"/>having already confeſſed that there was a generall de<g ref="char:EOLhyphen"/>ſigne to have raiſed forces, in all the Counties of the Kingdome, theſe Gent. had many private meetings at Bromſgrave &amp; Kittermaſter, and had gotten ſome for<g ref="char:EOLhyphen"/>ces in a readineſſe, but the whole plot being now made manifeſt the well-affected in theſe parts declare them<g ref="char:EOLhyphen"/>ſelves againſt their proceedings, and doe utterly abhor their actions, and ſay their actions are deſtructive to the ſetled Government of this Kingdom.</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="resolution_of_the_Common_Council">
+            <pb facs="tcp:161971:5"/>
+            <opener>
+               <dateline>
+                  <date>London July 12 1648.</date>
+               </dateline>
+            </opener>
+            <p>At a Common-councel at Guild-Hal it was agreed that the Common-councel men of every ward ſhould meet Thurſday next and in purſuance of their petition for a perſonall treaty in London finde out in their reſ<g ref="char:EOLhyphen"/>pective wards, who will ſhew themſelves for this or other petition; and at a conſultation by a Committee of the Parliament, and a Committee of the City endea<g ref="char:EOLhyphen"/>voured to ſatisfie the houſe which way they wil make good the perticulars, ſet down in their late petition pre<g ref="char:EOLhyphen"/>ſented to the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouse for a treaty in London, and declared that they wil not onely do their utmoſt endeavour for preſervation of the Kings Majeſty, royall perſon and both houſes of Parliament during the treaty, but in caſe the ſaid treaty prove not effective they will live and die with the Parliament according to their ſolemn League and Covenant.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
